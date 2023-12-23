@@ -4,13 +4,37 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+https://blog.logrocket.com/handling-gestures-flutter-gesturedetector/
 
-A few resources to get you started if this is your first Flutter project:
+onTapDown
+onTapUp
+onTap
+onTapCancel
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+onDoubleTapDown
+onDoubleTap
+onDoubleTapCancel
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+onLongPressDown
+onLongPressStart
+onLongPress
+onLongPressMoveUpdate
+onLongPressEnd
+onLongPressUp
+onLongPressCancel
+
+onScaleStart
+onScaleUpdate
+onScaleEnd
+
+onVerticalDragDown
+onVerticalDragStart
+onVerticalDragUpdate
+onVerticalDragEnd
+onVerticalDragCancel
+
+onHorizontalDragDown
+onHorizontalDragStart
+onHorizontalDragUpdate
+onHorizontalDragEnd
+onHorizontalDragCancel
